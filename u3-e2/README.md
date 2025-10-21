@@ -1,3 +1,12 @@
-# U3-E2\n\n**Autor:** Tu Nombre\n\n**Descripci�n:** Carpeta de la tarea U3-E2.\n
+U3-E2
 
-[feature/u3-e2-v2] Prueba de cambio: 2025-10-21 14:11 - Texto de ejemplo.
+Autor: Sergio Daniel Martínez Gómez
+
+Descripción: Carpeta de la tarea U3-E2.
+Cambios en la rama feature/u3-e2-v2: Prueba de cambio realizada el 2025-10-21.
+
+Herramientas usadas
+- Git: branches, merge con conflictos, .gitignore.
+
+Dificultades
+- Conflicto en merge: Resuelto borrando marcadores y combinando versiones.
