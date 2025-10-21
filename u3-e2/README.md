@@ -1,6 +1,6 @@
-\## Lo aprendido sobre .gitignore
+U3-E2
 
-\- El archivo `.gitignore` permite ignorar archivos y carpetas no deseados en el repositorio, como logs y archivos temporales.
+Autor: Sergio Daniel Martínez Gómez
 
-
-
+Descripción: Carpeta de la tarea U3-E2.
+Cambios en la rama feature/u3-e2-v2: Prueba de cambio realizada el 2025-10-21.
