@@ -4,3 +4,5 @@
 
 
 
+## Cambios en la rama feature/u3-e2-v2
+- Se actualizó el README.md para incluir información adicional sobre el uso de ramas en Git.
